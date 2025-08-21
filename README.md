@@ -17,4 +17,4 @@ This APK works for me on my Android devices, that at the date of writing have th
 - OnePlus Open
 - Samsung Tab S8+
 
-Note: If want to do your own signing, and wonder how to install the relevant signing tools, you will have to look elsewhere. I am sorry, but I do not have a pointer to a good (and up to date) instruction for how to install the relevant Android development tools.
+Note: If you want to do your own signing, and wonder how to install the relevant signing tools, you will have to look elsewhere. I am sorry, but I do not have a pointer to a good (and up to date) instruction for how to install the relevant Android development tools.
